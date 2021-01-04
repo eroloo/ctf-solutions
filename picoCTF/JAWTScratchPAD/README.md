@@ -1,4 +1,4 @@
-##JAWT Scratchpad ( 400 points ) 
+## JAWT Scratchpad ( 400 points ) 
 
 I belive that the task is pretty simple just to get familiar with JWT 
 
@@ -9,7 +9,7 @@ I belive that task is to possess a cookie signed for admin credentials and autho
 
 What is important - default version of JTR from debian repositories (1.8.0) doesn't really support JWT so I decided to download [jumbo version](https://github.com/openwall/john).
 
-###Solution
+### Solution
 
 **login as 'test' user as an example and see that JWT cookie appeared in browser**
 
