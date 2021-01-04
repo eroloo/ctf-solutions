@@ -18,9 +18,9 @@ What is important - default version of JTR from debian repositories (1.8.0) does
 **2. download a cookie** </br>
 echo "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoidGVzdCJ9.IAu_YSHppFe8hXH_BSPb4OLJYGUi8wXqXdS0T33cKbA" > cookie
 
-**3. run john to crack propably easy key**
-sudo /opt/run./john --incremental:Lower cookie
-key is 'ilovepico'
+**3. run john to crack propably easy key** </br>
+sudo /opt/run./john --incremental:Lower cookie </br>
+key is 'ilovepico' </br>
 
 **4. sign a new cookie to admin credentials**
 easy to do on official [JWT webpage](https://jwt.io/)
