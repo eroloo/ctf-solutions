@@ -1,0 +1,1 @@
+steghide --extract rufus.jpg
