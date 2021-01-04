@@ -13,7 +13,7 @@ What is important - default version of JTR from debian repositories (1.8.0) does
 
 **login as 'test' user as an example and see that JWT cookie appeared in browser**
 
-| ![]https://i.ibb.co/Zgg56rY/Zrzut-ekranu-z-2020-12-23-23-30-34.png
+| ![](https://i.ibb.co/Zgg56rY/Zrzut-ekranu-z-2020-12-23-23-30-34.png)
 
 **download a cookie**
 echo "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoidGVzdCJ9.IAu_YSHppFe8hXH_BSPb4OLJYGUi8wXqXdS0T33cKbA" > cookie
@@ -26,4 +26,4 @@ key is 'ilovepico'
 easy to do on official [JWT webpage](https://jwt.io/)
 paste new cookie and upload a flag
 
-| ![]https://i.ibb.co/ng2TZ9K/Screenshot-at-2021-01-04-17-45-53.png
+| ![](https://i.ibb.co/ng2TZ9K/Screenshot-at-2021-01-04-17-45-53.png)
