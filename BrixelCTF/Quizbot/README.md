@@ -8,7 +8,7 @@ beach boys**
 
 plan is simple 
 
-**1. send 1000 post requests and download all good answers to file**
+**1. send 1000 post requests and download all good answers to file**<br>
 **2. send 1000 post requests with correct answers to quizbot and belive that last will return flag**
 
 It worked, flag was **knowl3dg3** 
