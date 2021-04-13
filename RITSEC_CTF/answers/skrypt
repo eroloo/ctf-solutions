@@ -1,0 +1,6 @@
+#!/bin/bash
+records="answers.ritsec.club"
+while [ -n "${records}" ]; do
+    echo "${records}"
+    records=`dig @answers.ritsec.club ${records} +short | tr "\n" " "`
+done
