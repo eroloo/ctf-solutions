@@ -6,9 +6,9 @@
 |:-----------------------------------------------:|
 | **pnc4** (eroloo)                               |
 
-:muscle::muscle: Team    | [Inner Savages](https://ctftime.org/team/87451) |
+:muscle: Team    | [Inner Savages](https://ctftime.org/team/87451) |
 
-:poland::poland: Country | :poland: TOP5
+:poland: Country | Poland TOP5
 
 ### Content
 
