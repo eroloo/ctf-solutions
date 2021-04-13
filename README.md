@@ -4,9 +4,10 @@
 
 | ![](https://github.com/eroloo.png?size=150)     |
 |:-----------------------------------------------:|
-| **pnc4** (eroloo)                              |
+| **pnc4** (eroloo)                               |
 
 Team    | :muscle: [Inner Savages](https://ctftime.org/team/87451) :muscle: |
+
 Country | :poland: TOP5
 
 ### Content
