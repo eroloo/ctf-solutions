@@ -1,15 +1,13 @@
 # CTF writeups
 
-I am playing ctf competitions in my free-time. 
-
-
+:triangular_flag_on_post: I am playing ctf competitions in my free-time. 
 
 | ![](https://github.com/eroloo.png?size=150)     |
 |:-----------------------------------------------:|
 | **pnc4** (eroloo)                              |
 
-| :muscle: [Inner Savages](https://ctftime.org/team/87451) |
-
+Team    | :muscle: [Inner Savages](https://ctftime.org/team/87451) :muscle: |
+Country | :poland: TOP5
 
 ### Content
 
