@@ -1,13 +1,16 @@
 ## Lov3
 
-Unfortunately my assistant deleted some of the files from my flash drive. Can you retrieve them and collect the flag?
+***Unfortunately my assistant deleted some of the files from my flash drive. Can you retrieve them and collect the flag?***
+
 
 Hyperlink goes to googledrive where we can download a 3.2GB rar archive.
 
 ```unrar x  chall3 rar``` 
+
 *extracts Challeng3.E01 file*
 
 ```file Challeng3.EO1```
+
 *Challeng3.E01: EWF/Expert Witness/EnCase image file format*
 	
 ```ewfmount Challeng3.E01 /mnt/E01/```
@@ -20,14 +23,17 @@ Hyperlink goes to googledrive where we can download a 3.2GB rar archive.
 here we had some tries extracing files by foremost or binwalk. Results were unsatisfied so We have decided to use [RecuperaBit](https://github.com/Lazza/RecuperaBit), a software which attempts to reconstruct file system structures and recover files. Currently it supports only NTFS.
 
 ```python3 RecuperaBit/main.py /mnt/E01/ewf1 ```
+
 *INFO:root:4 partitions found.*
 
 files were easily recover in two folder called ```Imazess``` and ```Songzzz```, among them We have found two suspicious files 
 
 ```file Imazess/Incognito0.jpg```
+
 *Imazesss/Incognit0.jpg: data*
 
 ```file Songzzz/Attention.wav``` 
+
 *Songzzz/Attention.wav: data*
 
 extension and directory name suggests formats so we should check file signature.
