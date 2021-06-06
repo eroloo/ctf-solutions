@@ -17,3 +17,4 @@
 | PicoCTF       | [Pico](https://github.com/eroloo/ctf/tree/main/picoCTF)      |
 | BrixelCTF     | [Brixel](https://github.com/eroloo/ctf/tree/main/BrixelCTF)  |
 | RitsecCTF     | [Ritsec](https://github.com/eroloo/ctf/tree/main/RITSEC_CTF) |
+| WtfCTF        | [WtfCTF](https://github.com/eroloo/ctf/tree/main/WtfCTF)     |
