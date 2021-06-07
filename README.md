@@ -1,14 +1,12 @@
 # CTF writeups
 
-:triangular_flag_on_post: I am playing ctf competitions in my free-time. 
-
-| ![](https://github.com/eroloo.png?size=150)     |
-|:-----------------------------------------------:|
-| **pnc4** (eroloo)                               |
+This repo is collection of writeups to CTF challenges solved by me and my team. 
+Usually, during challenges I focus on web/pwn but I feel comfortable in wide area of IT skills. 
+I hope that you will find something useful here.
 
 :muscle: Team    | [Inner Savages](https://ctftime.org/team/87451) |
 
-:poland: Country | Poland TOP5
+:poland: Country | Poland TOP10
 
 ### Content
 
