@@ -1,6 +1,7 @@
 # CTF writeups
 
-:triangular_flag_on_post: I am playing ctf competitions in my free-time. 
+:triangular_flag_on_post: :triangular_flag_on_post: :triangular_flag_on_post: :triangular_flag_on_post:
+I am playing ctf competitions in my free-time. 
 
 | ![](https://github.com/eroloo.png?size=150)     |
 |:-----------------------------------------------:|
@@ -8,7 +9,7 @@
 
 :muscle: Team    | [Inner Savages](https://ctftime.org/team/87451) |
 
-:poland: Country | Poland TOP5
+:poland: Country | Poland TOP10
 
 ### Content
 
