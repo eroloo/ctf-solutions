@@ -1,12 +1,14 @@
-##Knock Knock
+## Knock Knock
 
-*** We recently found a private SSH key that will allow us to login in the attached machine.
+*** 
+We recently found a private SSH key that will allow us to login in the attached machine.
 
 However, we can't seem to be able to login through SSH.
 
 Can you help us out?
 
-No brute force is required. ***
+No brute force is required.
+***
 
 .ova and id_rsa.key files are available for download. 
 
