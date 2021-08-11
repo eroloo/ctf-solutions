@@ -16,6 +16,7 @@ TLDR
 register ova on VB
 scan for open ports
 login by ftp (knocking for ssh)
+nc on 7000,8000,9000 ports 
 generate pub.key from priv.key from description
 login by username from public key
 
@@ -28,6 +29,15 @@ I belive that we have to connect to Virtual Machine by network so lets create a 
 so the address of VM is 192.168.56.101 now and we can scan some ports. Result of nmap is open 21/FTP port. After connection we can download a flag file but it is fake flag.
 
 ![](https://i.ibb.co/tZNF8gN/ftp.png)
+
+Taking hint into consideration we can perform knocking by:
+```
+nc -v 192.168.56.101 7000
+
+nc -v 192.168.56.101 8000
+
+nc-v 192.168.56.101 9000
+```
 
 After that additional scanning shows 22/ssh open port so that was a port-knocking. 
 
