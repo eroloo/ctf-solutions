@@ -4,8 +4,7 @@
 :triangular_flag_on_post: :triangular_flag_on_post: :triangular_flag_on_post: :triangular_flag_on_post:
 I am playing ctf competitions in my free-time. 
 
-|:-----------------------------------------------:|
-| **pnc4** (eroloo)                               |
+**erolo**
 =======
 This repo is collection of writeups to CTF challenges solved by me and my team. 
 Usually, during challenges I focus on web/pwn but I feel comfortable in wide area of IT skills. 
