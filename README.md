@@ -4,7 +4,6 @@
 :triangular_flag_on_post: :triangular_flag_on_post: :triangular_flag_on_post: :triangular_flag_on_post:
 I am playing ctf competitions in my free-time. 
 
-| ![](https://github.com/eroloo.png?size=150)     |
 |:-----------------------------------------------:|
 | **pnc4** (eroloo)                               |
 =======
