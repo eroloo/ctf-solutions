@@ -41,3 +41,4 @@ while (returned_byte is not 125):
             answer_string += letter_ascii
             print(answer_string)
     sleep(1.5)
+# so the solution is to send one byte from sandbox to the outside world by using exit code channel, great and interesting task! 
