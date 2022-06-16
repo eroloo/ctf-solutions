@@ -9,13 +9,17 @@ after making binary executable it asking for the key and give message "Access de
 	- ask for key
 	- encode() user input
 	- compare to bytes in memory
-![Alt text](/AccessDeniedCTF2022/binary/encode-ghidra.png?raw=true "Title")
+
+![Alt text](/AccessDeniedCTF2022/binary/main-ghidra.png?raw=true "Title")
+
 3. Dig into encode() function
 	- 11 line = get rand() value which will be the same during every execution of program
 	- 12 line = uVar3 will be null in every scenario becouse rand() is no longer than (0xff + 0x2) bytes (tested in test.c file)
 	- 13 line in shorcut is iVar2 = user_input & 0x3fffffff becouse iVar3 is null
 	- 14 line = iVar1 is also null becouse iVar2 is maximum 32 bits in length in default. (MAX_RAND value + 255) & 3fffffff > 0 
 	- 15 line is byte = byte & 7f
+![Alt text](/AccessDeniedCTF2022/binary/encode-ghidra.png?raw=true "Title")
+
 
 general idea:
 	byte in memory = user_byte + rand() & 0x3fffffff & 0x7f
