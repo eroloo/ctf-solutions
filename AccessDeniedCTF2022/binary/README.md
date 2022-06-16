@@ -9,7 +9,7 @@ after making binary executable it asking for the key and give message "Access de
 	- ask for key
 	- encode() user input
 	- compare to bytes in memory
-![Alt text](/main-ghidra.png?raw=true "Title")
+![Alt text](ctf-solutions/blob/main/AccessDeniedCTF2022/binary/main-ghidra.png?raw=true "Title")
 3. Dig into encode() function
 	- 11 line = get rand() value which will be the same during every execution of program
 	- 12 line = uVar3 will be null in every scenario becouse rand() is no longer than (0xff + 0x2) bytes (tested in test.c file)
